@@ -65,6 +65,6 @@ I am a B.Tech Computer Science student and a results-driven Full-Stack Developer
 ## 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/raushankumar1](https://linkedin.com/in/raushankumar1)
-* **Email:** raushan4780@gmail.com
+* **Email:** codewithrdx@gmail.com
 * **GitHub:** [github.com/CodewithRDX](https://github.com/CodewithRDX)
-* **Location:** Phagwara, Punjab / Bihar, India
+* **Location:** Bihar, India
