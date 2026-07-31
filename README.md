@@ -55,11 +55,6 @@ I am a B.Tech Computer Science student and a results-driven Full-Stack Developer
 * **Specialization:** Graph-based logic, complex maze-traversal algorithms, and tight low-memory optimization processing.
 * **Badges:** Gold Badges in Java programming and C++ OOP challenges.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodewithRDX&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRDX&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
